@@ -1,6 +1,6 @@
-# GitHub Auto Comment
-auto comment at GitHub at a certain time using PyGitHub
+Function: auto comment at GitHub at a certain time using PyGitHub
 
-customized for cpsc 310 autobot comments
+          customized for cpsc 310 autobot comments
 
-requirements: install Python 3 and PyGithub package
+Requirements: install Python 3 and PyGithub package
+Author: yao@alumni.ubc.ca
